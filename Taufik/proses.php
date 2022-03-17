@@ -1,4 +1,4 @@
-<?php
+<?php                                                                   //
 if (isset($_POST['submit'])) {
     $angka1 = $_POST['angka1'];
     $angka2 = $_POST['angka2'];
@@ -16,7 +16,7 @@ if (isset($_POST['submit'])) {
         } else if ($operasi == 'bagi') {
             $hasil = $angka1 / $angka2;
         }
-        echo "Hasil dari $angka1 $operasi $angka2 adalah $hasil";
+        echo "Hasil dari $angka1 $operasi $angka2 adalah $hasil"; ///
     }
 }
 ?>
