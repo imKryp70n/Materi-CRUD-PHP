@@ -17,7 +17,10 @@ To deploy this project run
 
 ```
   Download Repository ini.
-  ekstrak projek ke C:\xampp\htdocs
+  XAMPP
+    - ekstrak projek ke C:\xampp\htdocs
+  Laragon
+    - ekstrak projek ke C:\laragon\www
   dan jalankan Apache dan MySQL di xampp
 ```
 
