@@ -34,7 +34,3 @@ To deploy this project run
 I DONT NEED LICENSE FOR THIS :)
 
 YOU FREE TO USE BTW
-
-
-![Logo](https://c.tenor.com/H3cgKrzO9ZsAAAAC/kotomi-san-girl.gif)
-
